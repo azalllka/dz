@@ -6,6 +6,7 @@ namespace Homework
         static void Main()
         {
             int n;
+            int q;
             bool f;
             f = false;
             n = int.Parse(Console.ReadLine());
@@ -29,3 +30,4 @@ namespace Homework
 }
 
 
+//test
