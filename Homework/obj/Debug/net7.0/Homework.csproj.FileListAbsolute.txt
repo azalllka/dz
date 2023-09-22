@@ -1,0 +1,15 @@
+/Users/azalka/Projects/Homework/Homework/bin/Debug/net7.0/Homework
+/Users/azalka/Projects/Homework/Homework/bin/Debug/net7.0/Homework.deps.json
+/Users/azalka/Projects/Homework/Homework/bin/Debug/net7.0/Homework.runtimeconfig.json
+/Users/azalka/Projects/Homework/Homework/bin/Debug/net7.0/Homework.dll
+/Users/azalka/Projects/Homework/Homework/bin/Debug/net7.0/Homework.pdb
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.csproj.AssemblyReference.cache
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.AssemblyInfoInputs.cache
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.AssemblyInfo.cs
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.csproj.CoreCompileInputs.cache
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.dll
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/refint/Homework.dll
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.pdb
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/Homework.genruntimeconfig.cache
+/Users/azalka/Projects/Homework/Homework/obj/Debug/net7.0/ref/Homework.dll
